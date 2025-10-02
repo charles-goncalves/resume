@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Currículo Charles Gonçalves</title>
+    <style>
+      h2 {
+        margin: auto;
+      }
+      p {
+        margin: auto;
+      }
+      li {
+        margin-bottom: 10px;
+      }
+      li li {
+        margin: auto;
+      }
+      .skills li {
+        margin: auto;
+      }
+    </style>
+  </head>
+  <body style="display: flex; justify-content: center;">
+    <div style="display: flex; justify-content: center; max-width: 800px;">
+      <div>
+        <div>
+          <div>
+            <h1 style="margin-bottom: auto">Charles Gonçalves</h1>
+            <table style="width: 100%">
+              <tbody>
+                <tr>
+                  <td>
+                    <p>
+                      LinkedIn:
+                      <a
+                        href="https://www.linkedin.com/in/charles-gon%C3%A7alves-ba52b513b"
+                      >
+                        www.linkedin.com/in/charles-gonçalves-ba52b513b
+                      </a>
+                    </p>
+                  </td>
+                  <td>
+                    <p style="margin: auto; text-align: right">
+                      Email: charapg@icloud.com
+                    </p>
+                    <p style="margin: auto; text-align: right">
+                      Celular: +55 24 99839-3611
+                    </p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <hr />
+        <div>
+          <div>
+            <h2>Habilidades</h2>
+            <ul style="padding-inline-start: 20px" class="skills">
+              <li>
+                <strong>Mobile:</strong> React Native, Android, iOS, Android
+                Studio, Xcode
+              </li>
+              <li><strong>Linguagens:</strong> TypeScript, Javascript</li>
+              <li>
+                <strong>Outros:</strong> Git, REST, GraphQL, Arquitetura de
+                Software, Clean Code, Design Patterns, Metodologias Ágeis
+              </li>
+              <li><strong>Nuvem:</strong> Firebase, AWS, GCP</li>
+              <li>
+                <strong>Testes:</strong> Unitários, E2E, Contrato, Jest, PactJS
+              </li>
+              <li>
+                <strong>DevOps:</strong> CI/CD, Github Actions, CircleCI,
+                Jenkins, Fastlane
+              </li>
+            </ul>
+          </div>
+        </div>
+        <hr />
+        <div>
+          <div>
+            <h2>Resumo</h2>
+            <p style="margin-top: 10px; margin-bottom: 10px">
+              Sou um Engenheiro de Software experiente com histórico comprovado no
+              desenvolvimento e escalabilidade de aplicações híbridas em React Native e APIs em
+              larga escala para os setores financeiro e de e-commerce. Atuei em
+              ambientes altamente críticos, atendendo milhões de usuários
+              diariamente e alcançando métricas de negócio importantes. Sou
+              apaixonado por resolver problemas e ajudar outras pessoas, sempre
+              priorizando a entrega de valor aos produtos. Valorizo muito a
+              colaboração e tenho histórico de atuação com equipes de alta
+              performance. Construir relações sólidas com colegas e alinhar
+              objetivos é fundamental na minha forma de trabalhar.
+            </p>
+          </div>
+        </div>
+        <hr />
+        <div>
+          <div>
+            <h2>Experiência</h2>
+            <ul style="padding-inline-start: 20px">
+              <li>
+                <div
+                  style="
+                    display: flex;
+                    margin-bottom: 10px;
+                    justify-content: space-between;
+                  "
+                >
+                  <div>
+                    <p><strong>7Factor Software</strong></p>
+                    <p><i>Engenheiro de Software</i></p>
+                  </div>
+                  <div>
+                    <p>Atlanta, Geórgia, EUA (Remoto)</p>
+                    <p style="text-align: right">Fev 2025 - Presente</p>
+                  </div>
+                </div>
+                <ul>
+                  <li>
+                    Otimizei o processo de entrada de recibos reduzindo o tempo
+                    em 60% com a implementação de OCR.
+                  </li>
+                </ul>
+                <p>
+                  <strong>Contexto:</strong> Contribuí para o desenvolvimento de
+                  um aplicativo React Native no setor de saúde, melhorando a
+                  experiência do usuário ao corrigir bugs críticos e implementar
+                  novas funcionalidades. Colaborei com uma equipe técnica
+                  dedicada para aprimorar a funcionalidade, impactando centenas
+                  de usuários e stakeholders.
+                </p>
+              </li>
+              <li>
+                <div
+                  style="
+                    display: flex;
+                    justify-content: space-between;
+                    margin-bottom: 10px;
+                  "
+                >
+                  <div>
+                    <p><strong>BRQ Digital Solutions</strong></p>
+                    <p><i>Engenheiro de Software Sênior</i></p>
+                  </div>
+                  <div>
+                    <p>São Paulo, SP, Brasil (Remoto)</p>
+                    <p style="text-align: right">Mai 2023 - Fev 2025</p>
+                  </div>
+                </div>
+                <ul>
+                  <li>
+                    Reduzi em 50% o lead time com a adoção antecipada de nova
+                    arquitetura.
+                  </li>
+                  <li>
+                    Liderei a criação de documentação técnica abrangente e
+                    protocolos de testes, melhorando significativamente os fluxos
+                    de desenvolvimento e a qualidade da aplicação.
+                  </li>
+                </ul>
+                <p>
+                  <strong>Contexto:</strong> Liderei o desenvolvimento de uma
+                  arquitetura escalável em React Native para o aplicativo móvel
+                  da Livelo, melhorando desempenho e manutenibilidade, e
+                  preparando-o para crescimento futuro. Trabalhando para a
+                  Livelo, a maior empresa de recompensas do Brasil.
+                </p>
+              </li>
+              <li>
+                <div
+                  style="
+                    display: flex;
+                    margin-bottom: 10px;
+                    justify-content: space-between;
+                  "
+                >
+                  <div>
+                    <p><strong>Creditas</strong></p>
+                    <p><i>Engenheiro de Software</i></p>
+                  </div>
+                  <div>
+                    <p>São Paulo, SP, Brasil (Remoto)</p>
+                    <p style="text-align: right">Dez 2021 - Mai 2023</p>
+                  </div>
+                </div>
+                <ul>
+                  <li>
+                    Aumentei em 50% a avaliação média nas lojas de aplicativos
+                    (App Store e Play Store) implementando uma jornada de
+                    avaliação dentro do app.
+                  </li>
+                  <li>
+                    Reduzi custos de deploy em 30% com a implementação de builds
+                    noturnos.
+                  </li>
+                  <li>
+                    Reforcei a segurança do app ao liderar a integração da
+                    autenticação multifator (MFA).
+                  </li>
+                </ul>
+                <p>
+                  <strong>Contexto:</strong> Contribuí na equipe de Plataforma
+                  Mobile liderando o desenvolvimento e manutenção do ecossistema
+                  multi-repositório da empresa. Atuei na implementação de novas
+                  funcionalidades, jornadas de usuário e APIs BFF utilizando
+                  principalmente React Native e TypeScript. A Creditas é uma das
+                  principais empresas do setor financeiro brasileiro, com foco
+                  em crédito com garantia, refinanciamento de veículos e crédito
+                  imobiliário.
+                </p>
+              </li>
+              <li>
+                <div
+                  style="
+                    display: flex;
+                    margin-bottom: 10px;
+                    justify-content: space-between;
+                  "
+                >
+                  <div>
+                    <p>
+                      <strong>Aditiva - Sisteplant Country Manager</strong>
+                    </p>
+                    <p><i>Desenvolvedor de Software</i></p>
+                  </div>
+                  <div>
+                    <p>São Paulo, SP, Brasil (Remoto)</p>
+                    <p style="text-align: right">Jun 2021 - Dez 2021</p>
+                  </div>
+                </div>
+                <ul>
+                  <li>
+                    Melhorei a performance do aplicativo em 2x com a mudança de
+                    framework e adoção de tecnologias avançadas.
+                  </li>
+                </ul>
+                <p>
+                  <strong>Contexto:</strong> Liderei a migração de um aplicativo
+                  móvel B2B de Ionic para React Native, aprimorando
+                  significativamente o tempo de desenvolvimento e a experiência
+                  do usuário. Também atuei no desenvolvimento de aplicações
+                  backend. A Aditiva Sistemas é parceira exclusiva da Sisteplant
+                  no Brasil, oferecendo soluções tecnológicas avançadas para
+                  manutenção em facilities e indústria.
+                </p>
+              </li>
+              <li>
+                <div
+                  style="
+                    display: flex;
+                    justify-content: space-between;
+                    margin-bottom: 10px;
+                  "
+                >
